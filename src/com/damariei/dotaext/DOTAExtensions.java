@@ -1,3 +1,10 @@
+/*
+Desc.: Server Plugins for Minecraft: DOTA
+Author: Dmitri Amariei
+Date: April 21, 2012
+Version: 0.1
+*/
+
 package com.damariei.dotaext;
 
 import java.util.ArrayList;
